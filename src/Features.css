@@ -1,0 +1,82 @@
+
+.testimonial-wrap {
+    border: 1px solid none;
+    margin-top: 30px;
+    height: 50rem;
+    background-color: #ffffff;
+	color: rgb(76, 76, 240);
+	padding-right: 5rem;
+
+	
+}
+.testside{
+    padding-top: 70px;
+    text-align: center;
+}
+.testside h1{
+    font-size: small;
+}
+.testside h3{
+    font-size: 35px;
+    font-family: 'Open Sans', sans-serif;
+}
+/* TESTIMONY CARD SECTION */
+.row {
+    margin-top: 30px;
+	margin-right: 30px;
+
+}
+.col-md-4 {
+    margin: auto;
+}
+.profile{
+    padding: 70px 10px 10px;
+    background-color: #efefef;
+    width: 300%;
+	left: -30px;
+	position: relative;
+}
+.profile img {
+    top: -60px;
+    left: calc(50% -60px);
+    border: 10px solid white;
+}
+.profile h3{
+    font-size: 20px;
+    margin-top: 15px;
+    color: rgb(44, 44, 214);
+}
+.profile:hover{
+    cursor: pointer;
+    transition: 0.5s;
+}
+.user{
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+}
+.testspan{
+    font-size: 12px;
+    color: rgb(44, 148, 212);
+    padding-bottom: 20px;
+}
+blockquote{
+    font-size: 16px;
+    line-height: 30px;
+}
+blockquote::before{
+    content: '\93';
+    font-size: 50px;
+    color: #ff9800;
+    line-height: 20px;
+    bottom: 15px;
+    right: 5px;
+}
+blockquote::after{
+    content: '\94';
+    font-size: 50px;
+    color: #ff9800;
+    line-height: 10px;
+    bottom: 15px;
+    left: 5px;
+}
