@@ -13,7 +13,7 @@ function Signup() {
 				<form className="loginForm">
 					<h1 className="in-in">SIGN UP </h1>
 				<span className="larger-width">
-						<input type="password" id="password" required size="50" />
+						<input type="text" id="user" required size="50" />
 						<p>Username</p>
 						<label for="password"><i className="fas fa-user"></i></label>
 				</span>
