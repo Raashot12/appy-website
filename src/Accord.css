@@ -1,0 +1,65 @@
+
+
+
+.single_accordion{
+	/* margin-left: 40%; */
+	padding-left: 2.5rem;
+	height: 14rem;
+	padding-top: 1.5rem;
+	margin-left: 10%;
+	margin-top: 5%;
+}
+.faq-container .faq-content{
+	/* padding-bottom: 80px */
+	margin-bottom: 10px
+}
+
+
+.fcontent {
+display:flex;
+align-items: center;
+width: 100%;
+
+}
+
+/* .accordion .accordion2{
+	margin-bottom: 320%
+} */
+.question-area{
+	background-color: #f5f6ff;
+	height: 80rem;
+}
+
+.at-center{
+	text-align: center;
+	padding-top: 8rem;
+}
+
+.content{
+background-color: white;
+width: 90%;
+margin-left: -1rem;
+padding: 0.3rem;
+overflow: hidden;
+height: 0;
+border-left: blue 4px solid;
+}
+.tab{
+ display: flex;
+ text-indent: 1rem;
+ margin-left: -1rem;
+ padding-top: 1.2rem;
+ padding-left: 1rem;
+ background-color: white;
+ width: 90%;
+ border-left: blue 4px solid; 
+}
+
+.content p{
+	padding-left: 0.9rem;
+}
+
+.showContent{
+	height: 8rem;
+
+}

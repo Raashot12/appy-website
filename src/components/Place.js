@@ -8,7 +8,8 @@ function Place() {
        			<h1>Start your amazing <br></br>stuff through appy.</h1>
 				<p>Lorem ipsum dolor sit amet, consectetur adipiing elit, sed do eiusmod<br></br> tempor 
          		incididunt ut labore et laborused sed do eiusmod tempor incididunt<br></br>  ut labore et laborused.</p><br></br>
-				<button><i class="fa fa-cloud-upload"></i> Download App</button>
+				<button><i class="fa fa-download" aria-hidden="true"></i>
+					Download App</button>
 			</div>
 		</section>
 	)

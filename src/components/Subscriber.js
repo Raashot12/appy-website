@@ -25,7 +25,7 @@ export default function Subscriber() {
 			</p>
 			</div>
 			<div>
-					<button className="rocket"><i class="fa fa-envelope-o" aria-hidden="true"></i></button>
+					<button className="rocket"><i class="fa fa-envelope-open" aria-hidden="true"></i></button>
 				<p className="space4">
 						yourmail@gmail.com<br></br>
 						backpiper.com@gmail.com

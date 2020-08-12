@@ -1,4 +1,4 @@
- import React from 'react'
+import React from 'react'
 import Place from "./components/Place.js"
 import Third from "./components/Third.js";
 import Fourth from "./components/Fourth";
@@ -12,24 +12,26 @@ import Result from "./components/Result.js";
 import Search from "./components/Search.js";
 import Subscriber from "./components/Subscriber.js";
 import Scalability from "./components/Scalability.js";
-	
+// import Signup from "./componentss/Signup";
+import Build from "./Build"
 
 function Home() {
 	return (
 		<div>
-	<Place />
-	<Third />
-	<Fourth />
-	<Fifth />
-	<Sixth />
-	<Testimonials />
-	<Management />
-	<School />
-	<University />
-	<Result />
-	<Search />
-	<Subscriber />
-	<Scalability />
+			<Place />
+			<Third />
+			<Fourth />
+			<Fifth />
+			<Sixth />
+			<Testimonials />
+			<Management />
+			<School />
+			<University />
+			<Result />
+			<Build />
+			<Search />
+			<Subscriber />
+			<Scalability />
 		</div>
 	)
 

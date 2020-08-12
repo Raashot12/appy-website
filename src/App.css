@@ -116,12 +116,17 @@ margin-top: -15%;
 	font-size: large;
 	margin-left: 10%;
 	outline: none;
+	display: flex;
+	padding-top: 20px;
+	justify-content: center;
 }
 .wow button:hover{
 	background-image: linear-gradient(to right top, #5932c4, #4d2ac0, #4121bd, #3118b9, #1b0eb6);
 	color: white;
 }
-
+.wow button i{
+padding-right: 0.5rem;
+}
 .face{
 justify-content: center;
 height: 767px;
@@ -446,6 +451,7 @@ margin-top: 2%;
 	padding-left: 60px;	
 	line-height: 30px;
 }
+
 
 
 .wow2 button{

@@ -20,9 +20,15 @@ class Testimonials extends Component {
 				<div className="col-md-4">
 					<Testimony img="https://colorlib.com/preview/theme/appy/images/team-1.png" />
 				</div>
-				{/* <div className="col-md-4">
+				<div className="col-md-4">
 					<Testimony img="https://colorlib.com/preview/theme/appy/images/team-1.png" />
-				</div> */}
+				</div>
+				<div className="col-md-4">
+					<Testimony img="https://colorlib.com/preview/theme/appy/images/team-1.png" />
+				</div>
+				<div className="col-md-4">
+					<Testimony img="https://colorlib.com/preview/theme/appy/images/team-1.png" />
+				</div>
 			</div>
 		</div>
 	);
